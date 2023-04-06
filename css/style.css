@@ -16,17 +16,17 @@ h2 {
     color: black;
 }
 
-#off {
+#light {
     width: 20px;
 }
 
-#off:hover {
+#light:hover {
     cursor: pointer;
     background-color: white;
 }
 
 
-#switchoff {
+#switch {
     float: right;
 }
 
