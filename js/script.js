@@ -1,6 +1,6 @@
 var lightswitch = document.getElementById('light').src
-var on =  "img/lightswitch_off.jpg"
-var off = "img/lightswitch_on.png"
+var off =  "img/lightswitch_off.jpg"
+var on = "img/lightswitch_on.png"
 
 //changing image of lightswitch from on to off
 function changeImage() {
